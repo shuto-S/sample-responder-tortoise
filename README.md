@@ -10,9 +10,9 @@ pipenv install
 
 ## migration
 
-'''
+```
 pipenv run migrate
-'''
+```
 
 ## run
 
