@@ -17,5 +17,5 @@ pipenv run migrate
 ## run
 
 ```
-pipenv rub start
+pipenv run start
 ```
